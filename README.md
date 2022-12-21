@@ -1,7 +1,7 @@
 # Creative Coding
 
 
-[Screenshot (84)](https://user-images.githubusercontent.com/90189815/208985370-1e660882-87fd-471d-b84a-48759913cd4c.png)
+![Screenshot (84)](https://user-images.githubusercontent.com/90189815/208985486-5ad087dd-8fc8-4b53-81a0-b6872e0791e8.png)
 
 
 Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
