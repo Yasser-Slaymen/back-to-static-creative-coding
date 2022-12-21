@@ -19,7 +19,8 @@
         place-items: center;
         background-color: rgb(9, 18, 81);
         width: 100vw;
-        /* height: 100vh; */
+        /* height: 100%; */
+        height: 100vh;
 
     }
 </style>

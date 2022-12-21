@@ -1,4 +1,5 @@
 <section class="box">
+    <a href="/">Home</a>
 </section>
 <style>
    .box{
@@ -13,6 +14,17 @@
     overflow: hidden;
     margin-bottom: 2em;
    }
+   a{
+    display: grid;
+    place-items: center;
+    align-items: center;
+    text-align: center;
+    text-decoration: none;
+    width: 200px;
+    height: 200px;
+    z-index: 999;
+    color: #ff0052;
+   }
    .box::before{
     content:"";
     background-image: conic-gradient(#ff0052 20deg, transparent 120deg);
@@ -22,7 +34,7 @@
     animation: rotate 2s linear infinite;
    }
    .box::after{
-    content: "Animation";
+    content: "";
     display: flex;
     justify-content: center;
     align-items: center;
