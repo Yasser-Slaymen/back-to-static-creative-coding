@@ -20,6 +20,7 @@
     align-items: center;
     text-align: center;
     text-decoration: none;
+    font-size: 1.5em;
     width: 200px;
     height: 200px;
     z-index: 999;

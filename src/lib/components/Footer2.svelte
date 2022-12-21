@@ -16,7 +16,6 @@
     box-shadow: inset 0 0 0 0 #f9e506;
     transition: ease-out 0.5s;
     outline: none;
-    margin-bottom: 1em;
   }
   a {
     text-decoration: none;

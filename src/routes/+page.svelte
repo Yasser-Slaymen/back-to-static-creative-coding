@@ -4,7 +4,7 @@
 	  <ul>
 		<li><a href="/week1">Week1-loading</a></li>
 		<li><a href="/week2">Week2-Circular effect</a></li>
-		<li><a href="/week3">Week3</a></li>
+		<li><a href="/week3">Week3-Cards animation</a></li>
 	  </ul>
 	</div>
   </main>

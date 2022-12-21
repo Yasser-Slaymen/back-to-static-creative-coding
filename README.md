@@ -1,17 +1,7 @@
-# create-svelte
+<<<<<<< HEAD
+# Creative coding
 
-Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).
 
-## Creating a project
-
-If you're seeing this, you've probably already done this step. Congrats!
-
-```bash
-# create a new project in the current directory
-npm create svelte@latest
-
-# create a new project in my-app
-npm create svelte@latest my-app
 ```
 
 ## Developing
@@ -36,3 +26,11 @@ npm run build
 You can preview the production build with `npm run preview`.
 
 > To deploy your app, you may need to install an [adapter](https://kit.svelte.dev/docs/adapters) for your target environment.
+=======
+# Creative Coding
+
+
+![Screenshot (84)](https://user-images.githubusercontent.com/90189815/208985486-5ad087dd-8fc8-4b53-81a0-b6872e0791e8.png)
+
+
+>>>>>>> 870173e8ca225712ae19fa105710e987c80a92be
