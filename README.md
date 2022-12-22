@@ -7,8 +7,7 @@
 
 ## Week#2-Carousel perpetual motion
 
-![Screenshot 2022-12-22 233245](https://user-images.githubusercontent.com/90189815/209236901-c1428b22-dcab-4681-8186-df198fb4f1f3.png)
-
+![Screenshot 2022-12-22 233456](https://user-images.githubusercontent.com/90189815/209237124-b53865e4-c64e-44bf-b50e-f2b8f4ac66c7.png)
 
 ## Week#2-Card Hover Effects
 ![Screenshot (84)](https://user-images.githubusercontent.com/90189815/208985486-5ad087dd-8fc8-4b53-81a0-b6872e0791e8.png)
