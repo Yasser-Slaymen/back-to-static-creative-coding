@@ -1,7 +1,3 @@
-<svelte:head>
-  <title>About</title>
-  <meta name="description" content="About this app" />
-</svelte:head>
 <script>
   import SideBar from "$lib/components/SideBar.svelte";
   import "../styles.css";
