@@ -1,5 +1,4 @@
 <script>
-    // import './week3.css'
     import {gsap} from 'gsap';
 	import { onMount } from "svelte";
     onMount(() => {

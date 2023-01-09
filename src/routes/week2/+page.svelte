@@ -29,16 +29,12 @@
   .App-container {
     display: grid;
     place-items: center;
-    /* width: vw; */
     height: 68vh;
-    /* background-color: #212123; */
   }
   .carousel__container {
     display: grid;
     place-items: center;
-    /* width: 80vw;
-    height: 80vh;
-    background-color: red; */
+   
   }
   .carousel__content {
     display: grid;
