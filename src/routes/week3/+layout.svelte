@@ -2,6 +2,8 @@
     import Border from '$lib/components/BorderAnimations.svelte'
 </script>
 <div class="Ap">
+    <h1>Click op de Card Hieronder</h1>
+
     <main>
       <slot />
     </main>
@@ -22,5 +24,9 @@
         /* height: 100%; */
         height: 100vh;
 
+    }
+    h1{
+        padding: .5em;
+        color: aliceblue;
     }
 </style>
