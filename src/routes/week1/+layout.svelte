@@ -1,11 +1,8 @@
 <script>
-
   import Header from "$lib/components/Header.svelte";
   import Footer from "$lib/components/Footer.svelte";
   import "../styles.css";
-
 </script>
-
 <div class="app">
  <Header />
  <main>
@@ -13,9 +10,7 @@
  </main>
  <Footer />
 </div>
-
 <style>
-	
 	.app {
 		display: flex;
 		flex-direction: column;
@@ -24,7 +19,7 @@
 		max-width: 100vw;
 		overflow: hidden;
 	}
-    
+
 	main {
 		flex: 1;
 		display: flex;
