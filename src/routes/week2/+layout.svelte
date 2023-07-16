@@ -16,11 +16,6 @@
     justify-content: space-around;
     align-items: center;
     background-color: #072e33;
-    /* background-image: url($lib/images/pex.jpg);
-    background-size:cover;
-    object-fit: cover;
-    background-position: center;
-    background-repeat: no-repeat; */
     height: 100vh;
     width: 100vw;
     overflow: hidden;
