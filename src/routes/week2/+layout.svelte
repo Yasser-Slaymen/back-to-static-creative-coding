@@ -5,7 +5,6 @@
 <div class="App">
   <main>
     <Footer2/>
-    <!-- <Head2 /> -->
     <slot />
   </main>
 </div>
